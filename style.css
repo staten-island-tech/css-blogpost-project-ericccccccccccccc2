@@ -9,11 +9,10 @@ body {
     text-align:center;
     margin-top: 15px;
     font-size: 80;
-    position: absolute;
+    position: relative;
     font-family: 'IBM Plex Serif', serif;
     font-weight: bold;
-    width: 2000;
-    height: 200;
+    width: 2000;  
 
 }
 
@@ -22,18 +21,65 @@ body {
     text-align:center;
     font-size: 21;
     width: 2000;
-    margin-top: 160
+    margin-top: 20;
 }
 
+.fahakabox{
 
+    height: 500px;
+    width: 450px;
+    position: relative;
+    margin-top: 270px;
+    left:200px;
+    background-color:aliceblue
+}
 
 .fahaka{    
 
     font-family: 'IBM Plex Serif', serif;
     font-size: 29;
-    height: 300;
     width: 300;
-    position: absolute;
-    top: 250px;
-    left: 200px;
+    position: relative;
+    margin-top: -180px;
+    left: 75px;
+}
+
+.dwarfbox{
+
+    height: 500px;
+    width: 450px;
+    position: relative;
+    margin-top: -533px;
+    left:580px;
+    background-color:aliceblue
+}
+
+.dwarf{    
+
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 29;
+    width: 300;
+    position: relative;
+    margin-top: -533px;
+    left: 75px;
+}
+
+.mbubox{
+
+    height: 500px;
+    width: 450px;
+    position: relative;
+    margin-top: -530px;
+    left:1170px;
+    background-color:aliceblue
+}
+
+.mbu{    
+
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 29;
+    width: 300;
+    position: relative;
+    margin-top: -180px;
+    left: 75px;
 }
