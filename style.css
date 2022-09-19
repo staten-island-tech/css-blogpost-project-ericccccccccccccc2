@@ -41,6 +41,7 @@ body {
     width: 300;
     position: relative;
     margin-top: -180px;
+    margin-left: 20px;
     left: 75px;
 }
 
@@ -50,7 +51,7 @@ body {
     width: 450px;
     position: relative;
     margin-top: -533px;
-    left:580px;
+    left:685px;
     background-color:aliceblue
 }
 
@@ -61,7 +62,7 @@ body {
     width: 300;
     position: relative;
     margin-top: -533px;
-    left: 75px;
+    left: 85px;
 }
 
 .mbubox{
@@ -69,8 +70,8 @@ body {
     height: 500px;
     width: 450px;
     position: relative;
-    margin-top: -530px;
-    left:1170px;
+    margin-top: -505px;
+    left: 485px;
     background-color:aliceblue
 }
 
@@ -82,4 +83,20 @@ body {
     position: relative;
     margin-top: -180px;
     left: 75px;
+}
+
+.text_margin{
+
+    margin-left:10px;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.img{
+
+    width: 350px;
+    height: 250px;
+    margin-left: 50px;
+
 }
