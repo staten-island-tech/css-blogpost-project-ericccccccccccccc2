@@ -1,36 +1,35 @@
 body {
-    position: absolute;
+    position: relative;
     background-image: url(pictures/moroccan-flower.png);
     font-family: 'Montserrat', sans-serif;
 
 }
 
 .title {
-    text-align:center;
+    text-align: center;
     margin-top: 15px;
     font-size: 80;
     position: relative;
     font-family: 'IBM Plex Serif', serif;
     font-weight: bold;
-    width: 2000;  
+    width: auto;  
 
 }
 
-
+no
 .box{
     background-color:aliceblue;
-    position: relative;
-    background-color:aliceblue;
-    width: 400px;
     text-align:center;
-    margin-left: 50px
+    position: relative;
+    margin: 50px;
+    width: auto;
 }
 
 .summary {
 
-    text-align:center;
+    text-align: center;
     font-size: 21;
-    width: 2000;
+    width: auto;
     margin-top: 20;
 }
 
@@ -45,9 +44,8 @@ body {
 
 .text_margin{
 
-    margin-left:10px;
+    padding: 10px;
     text-align: center;
-    margin-right: 10px;
     font-size: 20px;
 }
 
@@ -56,6 +54,6 @@ body {
     width: 350px;
     height: 250px;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 
 }
