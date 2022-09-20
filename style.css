@@ -16,6 +16,16 @@ body {
 
 }
 
+
+.box{
+    background-color:aliceblue;
+    position: relative;
+    background-color:aliceblue;
+    width: 400px;
+    text-align:center;
+    margin-left: 50px
+}
+
 .summary {
 
     text-align:center;
@@ -24,66 +34,14 @@ body {
     margin-top: 20;
 }
 
-.fahakabox{
 
-    height: 500px;
-    width: 450px;
-    position: relative;
-    margin-top: 270px;
-    left:200px;
-    background-color:aliceblue
-}
-
-.fahaka{    
-
+.center{
     font-family: 'IBM Plex Serif', serif;
     font-size: 29;
-    width: 300;
+    text-align: center;
     position: relative;
-    margin-top: -180px;
-    margin-left: 20px;
-    left: 75px;
 }
 
-.dwarfbox{
-
-    height: 500px;
-    width: 450px;
-    position: relative;
-    margin-top: -533px;
-    left:685px;
-    background-color:aliceblue
-}
-
-.dwarf{    
-
-    font-family: 'IBM Plex Serif', serif;
-    font-size: 29;
-    width: 300;
-    position: relative;
-    margin-top: -533px;
-    left: 85px;
-}
-
-.mbubox{
-
-    height: 500px;
-    width: 450px;
-    position: relative;
-    margin-top: -505px;
-    left: 485px;
-    background-color:aliceblue
-}
-
-.mbu{    
-
-    font-family: 'IBM Plex Serif', serif;
-    font-size: 29;
-    width: 300;
-    position: relative;
-    margin-top: -180px;
-    left: 75px;
-}
 
 .text_margin{
 
@@ -97,6 +55,7 @@ body {
 
     width: 350px;
     height: 250px;
-    margin-left: 50px;
+    text-align: center;
+    margin-bottom: 20px;
 
 }
